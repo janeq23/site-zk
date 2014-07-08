@@ -1,0 +1,19 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+
+/* TEAM */
+Name: JS-Projekt.
+Site: janeq@js-projekt.pl
+Location: Krosno, Poland.
+
+/* THANKS */
+Andrzej Kołder
+Wojciech Kołder
+
+/* SITE */
+Last update: 2014-05-23
+Standards: HTML5, CSS3, JS, PHP
+Components: Normalize.css, Modernizr, jQuery, reCAPTCHA, PHPMailer
+Software: Software used for the development
+
